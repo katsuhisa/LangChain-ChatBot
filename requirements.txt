@@ -59,7 +59,7 @@ PyGetWindow==0.0.9
 Pygments==2.16.1
 Pympler==1.0.1
 PyMsgBox==1.0.9
-pyobjc-core==9.2
+# pyobjc-core==9.2
 pyobjc-framework-Cocoa==9.2
 pyobjc-framework-Quartz==9.2
 PyPDF2==3.0.1
