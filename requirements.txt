@@ -2,7 +2,7 @@ openai
 langchain
 streamlit
 requests
-urllib
+urllib3
 qdrant_client
 PyPDF2
 beautifulsoup4
