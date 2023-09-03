@@ -1,0 +1,8 @@
+openai==0.27.8
+langchain==0.0.225
+streamlit==1.24.0
+requests==2.26.0
+urllib3==1.26.7
+qdrant_client==0.1.0
+PyPDF2
+bs4

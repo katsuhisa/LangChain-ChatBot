@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+requests
+urllib
+qdrant_client
+PyPDF2
+beautifulsoup4
+tiktoken
